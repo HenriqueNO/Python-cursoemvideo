@@ -6,7 +6,7 @@
 <p align="center">Hello world!</p>
 
 <p align="center">
- <a href="#Pré-resiquisitos">Pré-resiquisitos</a> • 
+ <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Clone-e-rode">Clone e rode</a> • 
  <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#Créditos">Créditos</a>
