@@ -1,0 +1,6 @@
+print('=-='*3, 'Desafio015', '=-='*3)
+d = int(input('Por quantos dias você alugou esse carro?'))
+k = float(input('Quantos quilômetros você rodou com ele?'))
+s = (d * 60) + (k * 0.15)
+print('Total a pagar R${:.2f}'.format(s))
+print('=-=' * 10 )

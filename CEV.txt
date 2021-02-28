@@ -1,0 +1,3 @@
+Henrique;17
+Rico;32
+Rique;14
